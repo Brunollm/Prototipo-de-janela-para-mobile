@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4355421d4c2621f4b967a899ff029e22, type: 3}
+  m_Name: Dados02
+  m_EditorClassIdentifier: 
+  foto: {fileID: 21300000, guid: ce02ffac4fc867e4ead6e50b904625db, type: 3}
+  nomeFunc: Leticia Vascos
+  porcentagem: 100
+  nVendas: 75
+  fLiquido: 31.85
+  fBruto: 11
+  mediaItensVenda: 6.3
+  mediaVendaFunc: 9.5
